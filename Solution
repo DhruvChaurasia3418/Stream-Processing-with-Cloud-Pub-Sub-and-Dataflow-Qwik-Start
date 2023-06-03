@@ -45,7 +45,7 @@ mvn compile exec:java \
     
 
 
-## When the command returns "Workers have started successfully", exit the local program using Ctrl+C
+
 
 
 
